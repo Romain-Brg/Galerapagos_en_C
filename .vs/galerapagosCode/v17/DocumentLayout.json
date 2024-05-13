@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:joueurAction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:joueurAction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:initialisation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:initialisation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:declaration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:declaration.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:affichage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:affichage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:actions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:actions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:34:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "joueurAction.h",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.h",
+              "RelativeDocumentMoniker": "joueurAction.h",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.h",
+              "RelativeToolTip": "joueurAction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T16:34:03.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "joueurAction.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.c",
+              "RelativeDocumentMoniker": "joueurAction.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\joueurAction.c",
+              "RelativeToolTip": "joueurAction.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:34:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "initialisation.h",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.h",
+              "RelativeDocumentMoniker": "initialisation.h",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.h",
+              "RelativeToolTip": "initialisation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T16:34:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "initialisation.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.c",
+              "RelativeDocumentMoniker": "initialisation.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\initialisation.c",
+              "RelativeToolTip": "initialisation.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:34:00.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "declaration.h",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.h",
+              "RelativeDocumentMoniker": "declaration.h",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.h",
+              "RelativeToolTip": "declaration.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T16:33:59.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "declaration.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.c",
+              "RelativeDocumentMoniker": "declaration.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\declaration.c",
+              "RelativeToolTip": "declaration.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:33:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "affichage.h",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.h",
+              "RelativeDocumentMoniker": "affichage.h",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.h",
+              "RelativeToolTip": "affichage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T16:33:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "affichage.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.c",
+              "RelativeDocumentMoniker": "affichage.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\affichage.c",
+              "RelativeToolTip": "affichage.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:33:56.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "actions.h",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.h",
+              "RelativeDocumentMoniker": "actions.h",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.h",
+              "RelativeToolTip": "actions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T16:33:55.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "actions.c",
+              "DocumentMoniker": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.c",
+              "RelativeDocumentMoniker": "actions.c",
+              "ToolTip": "D:\\Estaca\\CoursEstaca\\1A\\AlgoExcel\\Galerapagos\\galerapagosCode\\actions.c",
+              "RelativeToolTip": "actions.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-13T16:33:54.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
