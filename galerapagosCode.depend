@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1683921208 source:c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"actions.h"
+	"affichage.h"
+	"declaration.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683921208 source:c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683921208 source:c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683921208 c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\actions.h
+	"declaration.h"
+
+1683662569 c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\affichage.h
+	"declaration.h"
+
+1683835887 c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\declaration.h
+
+1683387389 c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\initialisation.h
+	"declaration.h"
+
+1683922390 source:c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683658759 source:c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+
+1683632000 c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\declaration.h
+
+1683401968 c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\actions.h
+	"declaration.h"
+
+1683662569 c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\affichage.h
+	"declaration.h"
+
+1683387389 c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\initialisation.h
+	"declaration.h"
+
+1683663853 source:c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"actions.h"
+	"affichage.h"
+	"declaration.h"
+	"initialisation.h"
+
+1683632298 source:c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+
+1683664575 source:c:\users\5866150\onedrive - estaca\galerapagos\galerapagoscode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+
+1683921208 c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\joueuraction.h
+	"declaration.h"
+
+1683921208 source:c:\users\romain\onedrive - estaca\galerapagos\galerapagoscode\joueuraction.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1684000995 source:d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683835887 d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\declaration.h
+
+1683921208 d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\actions.h
+	"declaration.h"
+
+1683662569 d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\affichage.h
+	"declaration.h"
+
+1683387389 d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\initialisation.h
+	"declaration.h"
+
+1683921208 d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\joueuraction.h
+	"declaration.h"
+
+1683922515 source:d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"actions.h"
+	"affichage.h"
+	"declaration.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1683921208 source:d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1685528131 source:d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\joueuraction.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
+1684000995 source:d:\estaca\coursestaca\algoexcel\galerapagos\galerapagoscode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"declaration.h"
+	"actions.h"
+	"affichage.h"
+	"initialisation.h"
+	"joueurAction.h"
+
